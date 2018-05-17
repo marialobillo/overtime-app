@@ -15,6 +15,7 @@ gem 'coffee-rails', '~> 4.2'
 gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 gem 'sqlite3', '~> 1.3', '>= 1.3.13'
+gem 'devise', '~> 4.4', '>= 4.4.3'
 
 group :development, :test do
 	gem 'byebug'
